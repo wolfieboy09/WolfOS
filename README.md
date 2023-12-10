@@ -1,7 +1,6 @@
 # WolfOS
-My Scratch-based OS!
-The **Discord** server is almost ready
-
+My Scratch-based OS! \
+Here is the discord server to WolfOS: https://discord.gg/wnY26s7gER
 
 
 
