@@ -1,5 +1,5 @@
 # WolfOS
-My Scratch-based OS! \
+My Scratch-based OS!
 <p align="center">
 <a href="https://discord.gg/p3aBUMeuE6"><img src="https://discord.com/api/guilds/1182388318772678717/widget.png" height="20"></a>
 </p>
