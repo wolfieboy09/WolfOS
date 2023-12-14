@@ -4,6 +4,7 @@ My Scratch-based OS!
 <a href="https://discord.gg/p3aBUMeuE6"><img src="https://discord.com/api/guilds/1182388318772678717/widget.png" height="20"></a>
 </p>
 
+More activity in the Discrd, more will be posted when `v0.0.1` comes out
 
 
 
